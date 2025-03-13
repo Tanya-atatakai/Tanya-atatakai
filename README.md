@@ -1,4 +1,6 @@
-## Hi there 👋
+## Privet 👋
+
+![](https://github-readme-stats.vercel.app/api?username=Tanya-atatakai&show_icons=true&theme=transparent)
 
 <!--
 **Tanya-atatakai/Tanya-atatakai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
